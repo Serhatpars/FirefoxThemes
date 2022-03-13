@@ -15,5 +15,5 @@
 - [Typescript](https://addons.mozilla.org/tr/firefox/addon/typescript/)
 
 ℹ️ I will update this repository as I develop themes. <br>💛 You can access the links here and use the themes as you wish.<br>
-🔗 If you wish, you can contact me using the links.<br>
-📧 Or send an email. destek@serhatpars.dev
+📧 If you wish, you can contact me using an email. destek@serhatpars.dev <br>
+or Discord: Serhat Pars#0001 & [Telegram](https://t.me/serhatparsx)
