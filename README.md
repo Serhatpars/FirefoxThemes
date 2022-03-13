@@ -1,7 +1,7 @@
 # 🦊 FirefoxThemes
 ![image](https://i.imgur.com/5O4duFr.png)<br>
 # 📓 FirefoxThemes Description
-My Themes for **Mozilla Firefox**. 🦊
+🦊 My Themes for **Mozilla Firefox**.
 
 🎨 You can access the themes I have developed for Firefox directly from the links below.<br>
 💛 Remember, you need an up-to-date Mozilla Firefox browser to use themes.
