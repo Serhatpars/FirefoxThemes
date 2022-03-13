@@ -1,5 +1,5 @@
 # 🦊 FirefoxThemes
-![image](https://i.imgur.com/jDk0jyC.png)<br>
+![image](https://i.imgur.com/5O4duFr.png)<br>
 # 📓 FirefoxThemes Description
 My Themes for **Mozilla Firefox**. 🦊
 
